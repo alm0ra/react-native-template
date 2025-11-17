@@ -2,6 +2,10 @@
 
 This document provides guidance for working with this Expo mobile application template built with Gluestack UI, React Native, and NativeWind.
 
+  ## ⚠️ IMPORTANT: Build/Run Restrictions
+
+  **This is a CODE TEMPLATE ONLY. DO NOT attempt to build, run, or test the application just edit code based on what user want.**
+
 ## Project Overview
 
 This is a production-ready Expo application template featuring:
