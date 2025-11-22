@@ -1,0 +1,10 @@
+diff --git a/node_modules/@gluestack-ui/nativewind-utils/tailwind-plugin/index.js b/node_modules/@gluestack-ui/nativewind-utils/tailwind-plugin/index.js
+index 82195d6..8fe2fed 100644
+--- a/node_modules/@gluestack-ui/nativewind-utils/tailwind-plugin/index.js
++++ b/node_modules/@gluestack-ui/nativewind-utils/tailwind-plugin/index.js
+@@ -43,4 +43,4 @@ const gluestackPlugin = plugin(function ({ matchVariant, }) {
+         },
+     });
+ });
+-export default gluestackPlugin;
++module.exports = gluestackPlugin;
