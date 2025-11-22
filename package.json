@@ -6,7 +6,8 @@
   "scripts": {
     "web": "npx expo start --web",
     "build": "npx expo export --platform web",
-    "build:dev": "npx expo export --platform web"
+    "build:dev": "npx expo export --platform web",
+    "postinstall": "patch-package"
   },
   "jest": {
     "preset": "jest-expo"
